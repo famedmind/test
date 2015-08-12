@@ -1,6 +1,6 @@
 <?php
 
-echo "hello my friend";
+echo "dear friend";
 
 
 ?>
